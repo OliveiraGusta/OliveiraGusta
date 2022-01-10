@@ -1,9 +1,13 @@
-# Sou o Gustavo Oliveira
-### Seja Bem-vindo(a) ao meu perfil 
+# Sou o Gustavo, prazer em te conhecer 
 
+### Seja Bem-vindo(a) ao meu perfil, caso queira aproveite um ✨[Lofi](https://www.youtube.com/watch?v=_tV5LEBDs7w) e relaxe a mente.
 
-- 🔭 ETEC Juscelino Kubitscheck
-- 🌱 Estou estudando Java e Javascript
+- 🔭 Faço técnico Desenvolvimento de Sistemas na [ETEC JUSCELINO KUBITSCHEK DE OLIVEIRA](http://www.etecjk.com)
+- 🌱 Estou [aprendendo](https://www.dio.me) Java e Javascript
+- ⚙  Planejo ingressar na área como programador Web Full Stack
+
+>Minha meta do dia é ser melhor que ontem\
+>_TODO DIA 1% MELHOR_
 
 <div align="center">
   <a href="https://github.com/OliveiraGusta">

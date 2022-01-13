@@ -1,6 +1,6 @@
 # Sou o Gustavo, prazer em te conhecer 
 
-### Seja Bem-vindo(a) ao meu perfil, caso queira aproveite um ✨[Lofi](https://www.youtube.com/watch?v=_tV5LEBDs7w) e relaxe a mente.
+### Seja Bem-vindo(a) ao meu novo perfil no GitHub, caso queira aproveite um ✨[Lofi](https://www.youtube.com/watch?v=_tV5LEBDs7w) e relaxe a mente.
 
 - 🔭 Faço técnico Desenvolvimento de Sistemas na [ETEC JUSCELINO KUBITSCHEK DE OLIVEIRA](http://www.etecjk.com)
 - 🌱 Estou [aprendendo](https://www.dio.me) Java e Javascript

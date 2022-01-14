@@ -4,7 +4,7 @@
 
 - 🔭 Faço técnico Desenvolvimento de Sistemas na [ETEC JUSCELINO KUBITSCHEK DE OLIVEIRA](http://www.etecjk.com)
 - 🌱 Estou [aprendendo](https://www.dio.me) Java e Javascript
-- ⚙  Planejo ingressar na área como programador Web Full Stack
+- ⚙  Planejo ingressar na área como programador Frontend Web
 
 >Minha meta do dia é ser melhor que ontem\
 >_TODO DIA 1% MELHOR_

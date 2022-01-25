@@ -3,7 +3,7 @@
 ### Seja Bem-vindo(a) ao meu novo perfil no GitHub, caso queira, aproveite um ✨[Lofi](https://www.youtube.com/watch?v=_tV5LEBDs7w) e relaxe a mente.
 
 - 🔭 Faço técnico Desenvolvimento de Sistemas na [ETEC JUSCELINO KUBITSCHEK DE OLIVEIRA](http://www.etecjk.com)
-- 🌱 Estou [aprendendo](https://www.dio.me) Java e Javascript
+- 🌱 Estou aprendendo Java e Javascript
 - ⚙  Planejo ingressar na área como programador Frontend Web
 
 >Minha meta do dia é ser melhor que ontem\

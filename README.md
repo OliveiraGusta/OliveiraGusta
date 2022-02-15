@@ -9,10 +9,14 @@
 >Minha meta do dia é ser melhor que ontem\
 >_TODO DIA 1% MELHOR_
 
-<div align="center">
+<div align="left" display: flex>
   <a href="https://github.com/OliveiraGusta">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=OliveiraGusta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OliveiraGusta&theme=dark">
+</div>
+<div align="right"  display: flex>
+  <a href="https://github.com/OliveiraGusta">
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraGusta&layout_count=&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -22,10 +26,9 @@
   <img align="right" alt="Oliveira-PHP" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="right" alt="Oliveira-Java" height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="right" alt="Oliveira-MySQL" height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
+</div >
 
- ##
-  
+ 
 <div><br>
    <a href="https://www.instagram.com/oliveira_guxta03/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavo.oliver456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

@@ -9,15 +9,12 @@
 >Minha meta do dia é ser melhor que ontem\
 >_TODO DIA 1% MELHOR_
 
-<div align="left" display: flex>
+<div align="center" display: flex>
   <a href="https://github.com/OliveiraGusta">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=OliveiraGusta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OliveiraGusta&theme=dark">
 </div>
-<div align="right"  display: flex>
-  <a href="https://github.com/OliveiraGusta">
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraGusta&layout_count=&langs_count=7&theme=dark"/>
-</div>
+  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Oliveira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

@@ -2,9 +2,9 @@
 
 ### Seja Bem-vindo(a) ao meu novo perfil no GitHub, caso queira, aproveite um ✨[Lofi](https://www.youtube.com/watch?v=_tV5LEBDs7w) e relaxe a mente.
 
-- 🔭 Faço técnico Desenvolvimento de Sistemas na [ETEC JUSCELINO KUBITSCHEK DE OLIVEIRA](http://www.etecjk.com)
-- 🌱 Estou aprendendo Java e Javascript
-- ⚙  Planejo ingressar na área como programador Frontend Web
+- 🔭 Cursando Superior em Sistemas de Informação na [FAM](https://vemprafam.com.br) e Técnico em Desenvolvimento de Sistemas na [ETEC](http://www.etecjk.com)
+- 🌱 Estou aprendendo Java e Javascript no programa Oracle Next Education ([ONE](https://www.oracle.com/br/education/oracle-next-education/))
+- ⚙  Planejo ingressar na área como programador Frontend Web e me consolidar como programador Mobile
 
 >Minha meta do dia é ser melhor que ontem\
 >_TODO DIA 1% MELHOR_

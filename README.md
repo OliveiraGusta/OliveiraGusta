@@ -2,7 +2,7 @@
 
 ####  Seja Bem-vindo(a) ao meu novo GitHub, aproveite um ✨[Lofi](https://www.youtube.com/watch?v=_tV5LEBDs7w) e relaxe a mente.
 
-- ⚙  Futuro Desenvolvedor 
+- ⚙  Desenvolvedor Backend
 - 📚 Cursando Superior em Ciência da Computação na [FEI](https://portal.fei.edu.br) 
 - 🎓 Formado Técnico em Desenvolvimento de Sistemas na [ETEC](http://www.etecjk.com)
 - 🌱 Aprendendo Java pela Plataforma [Alura](https://www.alura.com.br/cursos-online-programacao/java?gclid=CjwKCAjwq-WgBhBMEiwAzKSH6HscbXIyDtQzQN3aH98RMPBKAvpUf4cpX810eLjAqBvkv7QVTIq7_hoCOcYQAvD_BwE)

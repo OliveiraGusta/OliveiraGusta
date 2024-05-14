@@ -2,7 +2,7 @@
 
 ####  Seja Bem-vindo(a) ao meu novo GitHub, aproveite um ✨[Lofi](https://www.youtube.com/watch?v=_tV5LEBDs7w) e relaxe a mente.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=100&color=FFFFFF&multiline=true&repeat=false&random=false&width=620&height=90&lines=%F0%9F%92%BB+Desenvolvedor+Backend;%F0%9F%93%9A+Cursando+Bacharelato+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+FEI;%F0%9F%8E%93+Formado+T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+na+ETEC;%F0%9F%8C%B1+Estudando+Java+e+Javascript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=100&color=FFFFFF&multiline=true&repeat=false&random=false&width=620&height=90&lines=%F0%9F%92%BB+Desenvolvedor+FullStack;%F0%9F%93%9A+Cursando+Bacharelato+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+FEI;%F0%9F%8E%93+Formado+T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+na+ETEC;%F0%9F%8C%B1+Estudando+Java+e+Javascript)](https://git.io/typing-svg)
 
 >_SIC PARVIS MAGNA_\
 > Grandeza a partir de pequenos começos
@@ -10,12 +10,12 @@
 <br>
   <br>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Oliveira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Oliveira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Oliveira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Oliveira-PHP" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="right" alt="Oliveira-Java" height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="right" alt="Oliveira-MySQL" height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Logo do Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Logo do JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Logo do Java" height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="right" alt="Logo do MySQL" height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="right" alt="Logo do MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+
 </div >
 
  <br>

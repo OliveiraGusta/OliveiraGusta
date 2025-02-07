@@ -2,7 +2,7 @@
 
 ####  Seja Bem-vindo(a) ao meu novo GitHub, aproveite um ✨[Lofi](https://www.youtube.com/watch?v=_tV5LEBDs7w) e relaxe a mente.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=100&color=FFFFFF&multiline=true&repeat=false&random=false&width=620&height=90&lines=%F0%9F%92%BB+Desenvolvedor+FullStack;%F0%9F%93%9A+Cursando+Bacharelato+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+FEI;%F0%9F%8E%93+Formado+T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+na+ETEC;%F0%9F%8C%B1+Estudando+Java+e+Javascript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=100&color=FFFFFF&multiline=true&repeat=false&random=false&width=620&height=90&lines=%F0%9F%92%BB+Desenvolvedor+FullStack;%F0%9F%93%9A+Cursando+Bacharelato+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+FEI;%F0%9F%8E%93+Formado+T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+na+ETEC;%F0%9F%8C%B1+Freelancer+e+Professor+de+Programação)](https://git.io/typing-svg)
 
 >_SIC PARVIS MAGNA_\
 > Grandeza a partir de pequenos começos
